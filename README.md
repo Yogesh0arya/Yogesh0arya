@@ -13,9 +13,9 @@
 ## 👨‍💻 About Me
 
 - 🔧 I am currently working on and developing my programming skills.
-- 🚀 I worked on .NET Framework and experience in Model-View-Controller (MVC).
-- 👨‍💻 Skilled in programming languages such as Python, C++, Java, etc.
-- 💡 I love AI, Machine Learning, Deep Learning, Data Science, Automation, Blockchain development.
+- 🚀 I worked on React Framework and experience in Frontend Development.
+- 👨‍💻 Skilled in programming languages such as HTML, CSS, JavaScript, etc.
+- 💡 I love React.Js, Next.Js, Tailwind CSS.
 - 🎯 I only like **perfection**.
 
 ---
@@ -24,9 +24,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh084arya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yogesh08arya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alpha-jet.vercel.app)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel&logoColor=white)](https://yogesharya.in)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Yogesh0arya)
 
 ---
 
