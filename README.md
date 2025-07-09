@@ -1,93 +1,93 @@
-![YOGESH ARYA (1)](https://user-images.githubusercontent.com/63303537/186197287-a219ff93-fbed-4fd4-93ec-2acae6aa4bd5.png)
+<h1 align="center">Namaste 🙏 I'm Yogesh Arya</h1>
+<p align="center">💻 Web Developer | MERN Stack Developer | MTech from IIT Madras | BTech from MANIT Bhopal<br>
+🧠 Behind the screen, beyond the scene.</p>
 
-<h1 align="center">Hi 👋, I'm YOGESH ARYA</h1>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh0arya&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh0arya" /> </p>
+🎓 I'm currently pursuing a Master's degree in **Data Science and Artificial Intelligence** from IIT Madras, actively improving my programming skills and exploring various areas of the IT industry.  
+💡 My academic and personal learning journey is focused on building a **solid foundation** in software development and **exploring emerging technologies**.  
+🤖 Passionate about **Frontend** and **Full Stack**, I aim to specialize in these fields for my long-term career path.
 
-- 👨‍💻 All of my projects are available at [https://portfolio-alpha-jet.vercel.app/](https://portfolio-alpha-jet.vercel.app/)
+---
 
-- 💬 Ask me about **react, next, javascript, html, css, redux, tailwind css**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **Yogesh084arya@gmail.com**
+- 🔧 I am currently working on and developing my programming skills.
+- 🚀 I worked on .NET Framework and experience in Model-View-Controller (MVC).
+- 👨‍💻 Skilled in programming languages such as Python, C++, Java, etc.
+- 💡 I love AI, Machine Learning, Deep Learning, Data Science, Automation, Blockchain development.
+- 🎯 I only like **perfection**.
 
-![Alt Text](https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif)
+---
 
+## 🌐 Connect with me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshthadi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshthadi)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]()
 
-<a href="https://linkedin.com/in/yogesh08arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogesh08arya" height="30" width="40" /></a>
-<a href="https://fb.com/yogesh8arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yogesh8arya" height="30" width="40" /></a>
-<a href="https://instagram.com/yogesh_aka_yo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogesh_aka_yo" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yogesh0arya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yogesh0arya" height="30" width="40" /></a>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MASTERJUDAH&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MASTERJUDAH&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🧠 Languages & Tools I Have Placed My Hands On
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,html,css,nodejs,react,nextjs,tailwind,bootstrap,git,github,linux,django,flask,express,mongodb,mysql,netlify,vercel,vscode,figma,dotnet,postman" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+---
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
+## 🔥 Best Repositories
 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-</a> 
+### 📁 Data-Science
+> IBM Data Science course assignments and notes. Everything related to data science and how data science is the study of raw generation of data.
 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-</a> 
+### 🤖 Artificial-Intelligence
+> A collection of AI projects, models, and experiments. Includes ML algorithms, DL models, and intelligent systems.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
+---
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-</a> 
+## 🧰 Tech Stack
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-</a> 
- 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-
-
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-</a> 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-3C873A?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh0arya&show_icons=true&locale=en&layout=compact" alt="yogesh0arya" /></p>
+---
+
+## ☕ Support Me
+
+If you like what I do, consider buying me a coffee 🙌
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/your-link)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Masterjudah/masterjudah/main/assets/footer-landscape.png" alt="footer" width="90%">
+</p>
