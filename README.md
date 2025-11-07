@@ -42,7 +42,7 @@
 ## 🧠 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,redux,nodejs,express,mongodb,mysql,postgres,vercel,netlify,aws,gcp,docker,kubernetes,py,cpp,java,flask,figma,git,github,graphql,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,redux,nodejs,express,mongodb,mysql,postgres,vercel,netlify,aws,gcp,docker,kubernetes,py,cpp,java,flask,figma,git,github,graphql" />
 </p>
 
 ---
@@ -92,5 +92,5 @@ If you find my work useful, consider buying me a coffee 🙌
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Masterjudah/masterjudah/main/assets/footer-landscape.png" alt="footer" width="90%">
+  <img src="https://github.com/Yogesh0arya/Yogesh0arya/blob/main/poster%20footer.png" alt="footer" width="90%">
 </p>
