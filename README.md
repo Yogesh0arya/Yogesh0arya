@@ -1,20 +1,20 @@
 <h1 align="center">Namaste 🙏 I'm Yogesh Arya</h1>
-<p align="center">💻 Web Developer | MERN Stack Developer | MTech from IIT Madras | BTech from MANIT Bhopal<br>
+<p align="center">💻 Full Stack Developer | MTech from IIT Madras | [Pentogram](https://pentogram.in) Founder | BTech from MANIT Bhopal<br>
 🧠 Behind the screen, beyond the scene.</p>
 
 ---
 
-🎓 I'm currently pursuing a Master's degree in **Data Science and Artificial Intelligence** from IIT Madras, actively improving my programming skills and exploring various areas of the IT industry.  
-💡 My academic and personal learning journey is focused on building a **solid foundation** in software development and **exploring emerging technologies**.  
+🎓 I'm currently pursuing a Master's degree in **Data Science and Artificial Intelligence** from IIT Madras.  
+💡 My academic and personal learning journey is focused on building a **Large scale projects** in software development and **exploring emerging technologies**.  
 🤖 Passionate about **Frontend** and **Full Stack**, I aim to specialize in these fields for my long-term career path.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔧 I am currently working on and developing my programming skills.
-- 🚀 I worked on React Framework and experience in Frontend Development.
-- 👨‍💻 Skilled in programming languages such as HTML, CSS, JavaScript, etc.
+- 🔧 I am currently working on and developing my programming skills to more advance level.
+- 🚀 I worked React Framework and experience in Full stack Development.
+- 👨‍💻 Skilled in programming languages such as HTML, CSS, JavaScript, React.Js, Next.js, Express.Js, Node.Js, MongoDB, AWS, Docker, Kubernetes CI/CD etc.
 - 💡 I love React.Js, Next.Js, Tailwind CSS.
 - 🎯 I only like **perfection**.
 
@@ -42,12 +42,15 @@
 ## 🧠 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,redux,nodejs,express,mongodb,mysql,postgres,vercel,netlify,aws,gcp,docker,kubernetes,py,cpp,java,flask,figma,git,github,graphql" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,redux,nodejs,express,mongodb,mysql,postgres,vercel,netlify,aws,gcp,docker,kubernetes,py,cpp,java,flask,figma,git,github,graphql,docker,kubernetes" />
 </p>
 
 ---
 
 ## 🔥 Best Projects
+
+### 💬 Blog Application
+> MERN Stack Application with popular blog posts, features like posting, commenting, likes, and real-time features.
 
 ### 🛒 Grocery Shopping App
 > A full-featured app with dynamic product search, cart, authentication, and admin panel.
@@ -55,9 +58,7 @@
 ### 🌍 Travel Booking & Car Renting Web App
 > Built with **Next.js + Tailwind**, Google Maps integration, payment gateway, and admin dashboard.
 
-### 💬 Amazon & WhatsApp Clones
-> Pixel-perfect clones with full responsiveness, Firebase integration, and real-time features.
-
+So More...
 ---
 
 ## 🧰 Tech Stack
