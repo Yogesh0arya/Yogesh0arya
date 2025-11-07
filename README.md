@@ -1,22 +1,22 @@
 <h1 align="center">Namaste 🙏 I'm Yogesh Arya</h1>
-<p align="center">💻 Full Stack Developer | MTech from IIT Madras | [Pentogram](https://pentogram.in) Founder | BTech from MANIT Bhopal<br>
+<p align="center">💻 Full Stack Developer | MTech from IIT Madras | <a href="https://pentogram.in" target="_blank">Pentogram.in</a> Founder | BTech from MANIT Bhopal<br>
 🧠 Behind the screen, beyond the scene.</p>
 
 ---
 
-🎓 I'm currently pursuing a Master's degree in **Data Science and Artificial Intelligence** from IIT Madras.  
-💡 My academic and personal learning journey is focused on building a **Large scale projects** in software development and **exploring emerging technologies**.  
-🤖 Passionate about **Frontend** and **Full Stack**, I aim to specialize in these fields for my long-term career path.
+🎓 I’m currently pursuing my **MTech in Data Science and Artificial Intelligence** from **IIT Madras**.  
+💡 My learning journey revolves around building **large-scale software systems** and exploring **emerging technologies**.  
+🤖 I’m deeply passionate about **Frontend** and **Full Stack Development**, and I aim to specialize in these domains for my long-term career path.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔧 I am currently working on and developing my programming skills to more advance level.
-- 🚀 I worked React Framework and experience in Full stack Development.
-- 👨‍💻 Skilled in programming languages such as HTML, CSS, JavaScript, React.Js, Next.js, Express.Js, Node.Js, MongoDB, AWS, Docker, Kubernetes CI/CD etc.
-- 💡 I love React.Js, Next.Js, Tailwind CSS.
-- 🎯 I only like **perfection**.
+- 🔧 Constantly improving and advancing my programming skills.  
+- 🚀 Experienced with **React Framework** and **Full Stack Development**.  
+- 🧰 Skilled in technologies like **HTML, CSS, JavaScript, React.js, Next.js, Express.js, Node.js, MongoDB, AWS, Docker, Kubernetes, and CI/CD pipelines**.  
+- 💙 I absolutely love working with **React.js, Next.js, and Tailwind CSS**.  
+- 🎯 I strive for **perfection** in everything I build.
 
 ---
 
@@ -50,7 +50,7 @@
 ## 🔥 Best Projects
 
 ### 💬 Blog Application
-> MERN Stack Application with popular blog posts, features like posting, commenting, likes, and real-time features.
+> A **MERN Stack** blogging platform featuring posts, comments, likes, and real-time functionalities.
 
 ### 🛒 Grocery Shopping App
 > A full-featured app with dynamic product search, cart, authentication, and admin panel.
